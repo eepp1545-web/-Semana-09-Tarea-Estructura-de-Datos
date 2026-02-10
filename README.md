@@ -5,4 +5,4 @@ El sistema permite:
 - Actualizar productos
 - Buscar productos por nombre
 - Listar todos los productos registrados
-AUTOR: ERICK PÁRRAGA
+- AUTOR: ERICK PÁRRAGA
